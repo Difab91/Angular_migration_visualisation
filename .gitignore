@@ -1,0 +1,9 @@
+lib/
+VenvVisu/
+__pycache__/
+
+# fichier pivot
+clas.json 
+
+# json des dependances generer et ou modifier au cours du transcodage
+transcodeSumUp.json
